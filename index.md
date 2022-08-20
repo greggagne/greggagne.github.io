@@ -8,8 +8,8 @@
 
 <a href="https://www.zybooks.com/catalog/silberschatz-operating-system-concepts-10th-edition/" target="_blank">Operating System Concepts - Zybook Edition</a> 
 
-Operating System Concepts - 10th Edition
+<a href="https://codex.cs.yale.edu/avi/os-book/OS10/index.html" target="_blank">Operating System Concepts - 10th Edition</a>
 
-Operating System Concepts Essentials - 2nd Edition
+<a href="https://codex.cs.yale.edu/avi/os-book/OSE2/index.html" target="_blank">Operating System Concepts Essentials - 2nd Edition</a>
 
-Operating System Concepts with Java - 8th Edition
+<a href="https://codex.cs.yale.edu/avi/os-book/OS8/os8j/index.html" target="_blank">Operating System Concepts with Java - 8th Edition</a>
