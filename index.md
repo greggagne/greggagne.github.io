@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Associate Professor of Computer Science - <a href="./https://www.westminstercollege.edu" target="_blank">Westminster College</a>
 
 You can use the [editor on GitHub](https://github.com/greggagne/greggagne.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
