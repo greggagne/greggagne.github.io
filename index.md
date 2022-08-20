@@ -6,7 +6,7 @@
 
 ### Books
 
-Operating System Concepts - Zybook Edition 
+<a href="https://www.zybooks.com/catalog/silberschatz-operating-system-concepts-10th-edition/" target="_blank">Operating System Concepts - Zybook Edition</a> 
 
 Operating System Concepts - 10th Edition
 
