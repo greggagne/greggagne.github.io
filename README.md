@@ -39,6 +39,7 @@ All courses are delivered via <a href="https://westminster.instructure.com" targ
           <br>
         </span>
         
-
+<hr>
+Maybe we aren't writing <a href="./os-books.JPG" target="_blank">the right kind</a>a> of operating system books!
 
 
