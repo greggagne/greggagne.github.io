@@ -26,7 +26,21 @@ All courses are delivered via <a href="https://westminster.instructure.com" targ
           <br>
         </span>
 
+<img style="width: 75px; height: 107px;" alt=""
+            src="./images/os9e-cover.jpg" width="1400" align="middle"
+            height="2000"> </i><a style="font-family: Garamond;"
+          target="_blank"
+          href="https://codex.cs.yale.edu/avi/os-book/OSE2/index.html">Operating System Concepts Essentials</a><a target="_blank"
+          href="http://codex.cs.yale.edu/avi/os-book/OSE2/index.html"> -
+          Second Edition</a><i><br>
 
+
+<img style="width: 75px; height: 107px;" alt=""
+            src="./images/os9e-cover.jpg" width="1400" align="middle"
+            height="2000"> </i><a style="font-family: Garamond;"
+          target="_blank"
+          href="https://codex.cs.yale.edu/avi/os-book/OSE2/index.html">Operating System Concepts Essentials</a>
+          
 
 <ul>
       <li>&nbsp;<img src="./images/os10-cover.jpg" alt="" width="81"
