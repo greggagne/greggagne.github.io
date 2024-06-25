@@ -26,24 +26,8 @@ All courses are delivered via <a href="https://westminster.instructure.com" targ
             href="https://codex.cs.yale.edu/avi/os-book/OS10/index.html">Operating System Concepts - Tenth Edition</a>&nbsp; <br>
           <br>
         </span></li>
-      <li><br>
-        <span style="font-family: Garamond;"><img
-            src="./images/osc9e-cover.jpg" alt="" style="border: 0px solid ;
-            width: 75px; height: 110px;" width="700" align="middle"
-            height="1025"> <a
-            href="https://codex.cs.yale.edu/avi/os-book/OS9/index.html"
-            target="_blank">Operating System Concepts - Ninth Edition<br>
-          </a></span> <br>
-        <br>
-      </li>
-      <li><i><img style="width: 75px; height: 107px;" alt=""
-            src="./images/os8j-cover.jpg" width="314" align="middle"
-            height="448"> </i><a
-href="http://people.westminstercollege.edu/faculty/ggagne/osc/previous.html"
-          target="_blank" style="font-family: Garamond;">Operating
-          System Concepts with Java - Eighth Edition</a><i> <br>
-          <br>
-        </i></li>
+      
+      
       <li><i><img style="width: 75px; height: 107px;" alt=""
             src="./images/os9e-cover.jpg" width="1400" align="middle"
             height="2000"> </i><a style="font-family: Garamond;"
