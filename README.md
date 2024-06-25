@@ -32,7 +32,7 @@ All courses are delivered via <a href="https://westminster.instructure.com" targ
           <br>
         </span>
         
-<img src="./os10-cover.jpg" alt="Operating System Concepts Essentials" width="81"
+<img src="./os9e-cover.jpg" alt="Operating System Concepts Essentials" width="81"
           align="middle" height="125"> <span style="font-family:
           Garamond;"></span><span style="font-family: Garamond;">
           <a href="https://codex.cs.yale.edu/avi/os-book/OS10/index.html" target="_blank">Operating System Concepts Essentials</a>&nbsp; <br>
