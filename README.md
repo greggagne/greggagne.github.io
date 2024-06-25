@@ -13,7 +13,7 @@ Office Hours by appointment
 <hr>
 ## Teaching
 
-All courses are delivered via <a href="https://westminster.instructure.com" target="_blank">Canvas</a>.
+All courses are delivered via <a href="https://westminster.instructure.com" target="_blank">Westminster University's Canvas site</a>.
 
 <hr>
 ## Books
@@ -40,6 +40,6 @@ All courses are delivered via <a href="https://westminster.instructure.com" targ
         </span>
         
 <hr>
-Maybe we aren't writing <a href="./os-books.JPG" target="_blank">the right kind</a>a> of operating system books!
+Maybe we aren't writing <a href="./os-books.JPG" target="_blank">the right kind</a> of operating system books!
 
 
