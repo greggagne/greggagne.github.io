@@ -13,7 +13,7 @@ Office Hours by appointment
 <hr>
 ## Teaching
 
-All courses are delivered via <a href="https://westminster.instructure.com" target="_blank" aria-label="Opens in new tab or window.">Westminster University's Canvas site</a>.
+All courses are delivered via <a href="https://westminster.instructure.com" target="_blank" aria-label="Opens in new tab or window.">Westminster University's Canvas</a> site.
 
 <hr>
 ## Books
