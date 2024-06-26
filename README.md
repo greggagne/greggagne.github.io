@@ -13,7 +13,7 @@ Office Hours by appointment
 <hr>
 ## Teaching
 
-All courses are delivered via <a href="https://westminster.instructure.com" target="_blank">Westminster University's Canvas site</a>.
+All courses are delivered via <a href="https://westminster.instructure.com" target="_blank" aria-label="Opens in new tab or window.">Westminster University's Canvas site</a>.
 
 <hr>
 ## Books
@@ -28,18 +28,18 @@ All courses are delivered via <a href="https://westminster.instructure.com" targ
 <img src="./os10-cover.jpg" alt="Operating System Concepts - Tenth Edition" width="81"
           align="middle" height="125"> <span style="font-family:
           Garamond;"></span><span style="font-family: Garamond;">
-          <a href="https://codex.cs.yale.edu/avi/os-book/OS10/index.html" target="_blank">Operating System Concepts - Tenth Edition</a>&nbsp; <br>
+          <a href="https://codex.cs.yale.edu/avi/os-book/OS10/index.html" target="_blank" aria-label="Opens in new tab or window.">Operating System Concepts - Tenth Edition</a>&nbsp; <br>
           <br>
         </span>
         
 <img src="./os9e-cover.jpg" alt="Operating System Concepts Essentials" width="81"
           align="middle" height="125"> <span style="font-family:
           Garamond;"></span><span style="font-family: Garamond;">
-          <a href="https://codex.cs.yale.edu/avi/os-book/OS10/index.html" target="_blank">Operating System Concepts Essentials</a>&nbsp; <br>
+          <a href="https://codex.cs.yale.edu/avi/os-book/OS10/index.html" target="_blank" aria-label="Opens in new tab or window.">Operating System Concepts Essentials</a>&nbsp; <br>
           <br>
         </span>
         
 <hr>
-Maybe we aren't writing <a href="./os-books.JPG" target="_blank">the right kind</a> of operating system books!
+Maybe we aren't writing <a href="./os-books.JPG" target="_blank" aria-label="Opens in new tab or window.">the right kind</a> of operating system books!
 
 
