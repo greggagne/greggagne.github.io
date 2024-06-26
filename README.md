@@ -1,3 +1,4 @@
+<head><title>Home Page for Greg Gagne</title></head>
 ## Greg Gagne
 ### Professor - Computer Science
 #### <a href="https://westminsteru.edu" target = "_blank" aria-label="Opens in new tab or window.">Westminster University</a> - Salt Lake City, Utah (US)
