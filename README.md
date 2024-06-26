@@ -20,7 +20,7 @@ All courses are delivered via <a href="https://westminster.instructure.com" targ
 
 <img src="./zybook-10e.png" alt="Zybook version of Operating System Concepts" width="81"
           align="middle" height="125"> <span style="font-family:
-          Garamond;"role="presentation"></span><span style="font-family: Garamond;" role="presentation">
+          Garamond;""></span><span style="font-family: Garamond;" >
           <a href="https://www.zybooks.com/catalog/silberschatz-operating-system-concepts-10th-edition/" target="_blank">Operating System Concepts - Zybook Version aria-label="Opens in new tab or window."</a>&nbsp; <br>
           <br>
         </span>
