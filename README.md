@@ -22,7 +22,7 @@ One of the joys and privileges of teaching at a small institution is the opportu
 <hr>
 ## Books
 
-I have been co-authoring the *Operating System Concepts* sequence with colleagues Avi Silberschatz and Pete Galvin where we are now in our tenth edition.
+I co-author the *Operating System Concepts* series of textbooks with colleagues Avi Silberschatz and Pete Galvin where we are now in our tenth edition. We offer three different versions of OSC: (1) A Zybook that features the content from the Tenth Edition plus numerous activities that 
 
 <img src="./zybook-10e.png" alt="Zybook version of Operating System Concepts" width="81"
           align="middle" height="125"> <span style="font-family:
