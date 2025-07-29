@@ -10,7 +10,7 @@ Foster Hall 305
 
 <a href="https://cs.westminsteru.edu/~greg/F25-sched.pdf" target="_blank">Fall 2025 Schedule</a>
 
-**Office Hours** please contact me via email to arrange an appointment.
+**Office Hours** Please contact me via email to arrange an appointment.
 
 <hr>
 ## Teaching
