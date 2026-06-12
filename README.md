@@ -8,7 +8,6 @@ Foster Hall 305
 
 801.832.2361
 
-<a href="https://cs.westminsteru.edu/~greg/F25-sched.pdf" target="_blank">Fall 2025 Schedule</a>
 
 **Office Hours** Please contact me via email to arrange an appointment.
 
