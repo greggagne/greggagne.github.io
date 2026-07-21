@@ -16,7 +16,7 @@ Foster Hall 305
 
 All courses are delivered via <a href="https://westminster.instructure.com" target="_blank" aria-label="Opens in new tab or window.">Westminster University's Canvas</a> site.
 
-One of the joys and privileges of teaching at a small institution is the opportunity to teach a range of courses. I teach introductory programming classes in Python and Java through supervising senior capstone projects. I also teach computer networks, operating systems, computer security, and my favorite class - data structures. In addition to teaching computer science, I am also an affiliate faculty member in the Honors Program at Westminster University, where I teach courses that explore the intersectionality of science, power, and diversity.
+One of the joys and privileges of teaching at a small institution is the opportunity to teach a range of courses. I teach introductory programming classes in Python and Java through supervising senior capstone projects. I also teach computer networks, operating systems, computer security, and my favorite class - data structures. In addition to teaching computer science, I am an affiliate faculty member in the Honors Program at Westminster University, where I teach courses exploring the intersection of science, power, and diversity.
 
 
 
